@@ -127,7 +127,7 @@ section{
 
 /* Background-images */
 .section-a{
-    background-image: url('/img/section-a.webp');
+    background-image: url('../img/section-a.webp');
 }
 
 .section-b{
